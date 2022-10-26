@@ -33,7 +33,7 @@ jobs:
       uses: warrenbuckley/Setup-MSBuild@v1
 
     - name: Setup VSTest Path
-      uses: darenm/Setup-VSTest@v1
+      uses: darenm/Setup-VSTest@v1.2
 
     - name: Setup NuGet
       uses: NuGet/setup-nuget@v1.0.2
