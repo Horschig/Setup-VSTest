@@ -2,6 +2,7 @@
 [![Downloads](https://img.shields.io/github/downloads/darenm/Setup-VSTest/total.svg?label=Downloads)](https://github.com/darenm/Setup-VSTest/releases/)
 [![Release](https://img.shields.io/github/release/darenm/Setup-VSTest.svg?label=Release)](https://github.com/darenm/Setup-VSTest/releases)
 [![Contributors](https://img.shields.io/github/contributors/darenm/Setup-VSTest?label=Contributors)](https://github.com/darenm/Setup-VSTest/graphs/contributors)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 # DEPRECATED
 
