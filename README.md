@@ -3,6 +3,10 @@
 [![Release](https://img.shields.io/github/release/darenm/Setup-VSTest.svg?label=Release)](https://github.com/darenm/Setup-VSTest/releases)
 [![Contributors](https://img.shields.io/github/contributors/darenm/Setup-VSTest?label=Contributors)](https://github.com/darenm/Setup-VSTest/graphs/contributors)
 
+# DEPRECATED
+
+I no longer intend to maintain this project. Feel free to fork.
+
 # Setup-VSTest
 
 **Many thanks Warren Buckley for his [Setup-MSBuild](https://github.com/warrenbuckley/Setup-MSBuild) action which serves as the basis for this action.**
